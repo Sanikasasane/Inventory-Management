@@ -1,0 +1,17 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.InventoryManagement" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#431068</item>
+        <item name="colorPrimaryVariant">#5908c3</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color, matching primary color. -->
+        <item name="colorSecondary">#8f00ff</item>
+        <item name="colorSecondaryVariant">#e6c5f0</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>
